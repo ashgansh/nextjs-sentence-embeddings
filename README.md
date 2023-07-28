@@ -10,6 +10,8 @@ The app allows users to input a query sentence and a list of other sentences. It
 
 The query embedding is compared to the other sentence embeddings using cosine similarity to find the most similar sentences.
 
+![local embeddings](https://github.com/hotkartoffel/nextjs-sentence-embeddings/assets/11430621/714408ec-b93c-48f9-881c-4c8555db56a3)
+
 The results are displayed on the page, ranked by similarity score.
 
 ## Running the app
